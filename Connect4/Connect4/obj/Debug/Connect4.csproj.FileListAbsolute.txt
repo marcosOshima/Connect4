@@ -7,3 +7,10 @@ C:/Users/bberg/OneDrive/Documentos/Bow valley College/Courses/Term 2/Object Orie
 C:/Users/bberg/OneDrive/Documentos/Bow valley College/Courses/Term 2/Object Oriented/Connect4/Connect4/Connect4/obj/Debug/Connect4.pdb
 /Users/adammurray/Desktop/Development/School/ SODV1202 - Object Orientated Programming/final/Connect4/Connect4/Connect4/obj/Debug/Connect4.exe
 /Users/adammurray/Desktop/Development/School/ SODV1202 - Object Orientated Programming/final/Connect4/Connect4/Connect4/obj/Debug/Connect4.pdb
+C:\Users\bberg\OneDrive\Documentos\Bow valley College\Courses\Term 2\Object Oriented\Connect4\Connect4\Connect4\obj\Debug\Connect4.csproj.AssemblyReference.cache
+C:\Users\bberg\OneDrive\Documentos\Bow valley College\Courses\Term 2\Object Oriented\Connect4\Connect4\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\bberg\OneDrive\Documentos\Bow valley College\Courses\Term 2\Object Oriented\Connect4\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\bberg\OneDrive\Documentos\Bow valley College\Courses\Term 2\Object Oriented\Connect4\Connect4\Connect4\obj\Debug\Connect4.pdb
+C:\Users\bberg\OneDrive\Documentos\Bow valley College\Courses\Term 2\Object Oriented\Connect4\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\bberg\OneDrive\Documentos\Bow valley College\Courses\Term 2\Object Oriented\Connect4\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\bberg\OneDrive\Documentos\Bow valley College\Courses\Term 2\Object Oriented\Connect4\Connect4\Connect4\bin\Debug\Connect4.pdb

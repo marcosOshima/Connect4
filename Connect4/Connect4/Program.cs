@@ -434,7 +434,7 @@ namespace Connect4
         {
             ShowMenu();
 
-            static void StartGame(bool useAI = false)
+            void StartGame(bool useAI = false)
             {
                 Player player1 = new HumanPlayer('X', ConsoleColor.DarkCyan);
                 Player player2;
@@ -531,7 +531,7 @@ namespace Connect4
                 GameLoop(ref gameEnded, ref movesCount);
                 
             }
-            static void GameLoop(ref bool gameEnded, ref int movesCount)
+            void GameLoop(ref bool gameEnded, ref int movesCount)
                 {
                     while (!gameEnded)
                     {
@@ -576,7 +576,7 @@ namespace Connect4
                     }
                 }
 
-            static void ShowMenu()
+            void ShowMenu()
             {
                 Console.Clear();
                 Console.WriteLine("Welcome to Connect 4!");
